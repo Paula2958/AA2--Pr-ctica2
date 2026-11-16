@@ -1,0 +1,2 @@
+noise_factor,epochs,mse_noisy,mse_reconstructed,improvement_percent
+0.3,20,0.046613691213179605,0.005993100822215177,87.14304603167604
