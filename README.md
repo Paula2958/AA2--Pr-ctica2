@@ -76,9 +76,9 @@ Durante el entrenamiento, el modelo recibe una imagen degradada y aprende a reco
 
 Se añade ruido gaussiano a las imágenes mediante:
 
-\[
-\widetilde{x}=\operatorname{clip}(x+\varepsilon,0,1)
-\]
+$$
+\widetilde{x} = \operatorname{clip}(x + \varepsilon, 0, 1)
+$$
 
 Donde:
 
